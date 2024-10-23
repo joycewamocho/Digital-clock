@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(245, 220, 220);
+}
+.time{
+    text-align: center;
+    font-size: 10vh;
+    color:black
+}
+#clock{
+    color:rgb(165, 42, 42);
+    font-weight:bold;
+    
+}
